@@ -10,24 +10,24 @@ An enterprise-grade **Predictive AI Analytics Dashboard** built with **Streamlit
 This view provides an interactive diagnostic engine for individual retail accounts. It computes localized customer parameters, generates an automated risk metric gauge, outputs confidence percentages, and delivers customized strategic countermeasures based on the risk profile.
 
 #### ⚙️ Account Parameter Filters (Main Interface)
-![Account Parameter Filters](screenshots/Customer_parameters.png)
+![Account Parameter Filters](screenshots/Customer_parameters.jpeg)
 
 #### 🟢 Low-Risk Customer Profile Evaluation
-![Low-Risk Assessment](screenshots/low_risk_customer.png)
+![Low-Risk Assessment](screenshots/low_risk_customer.jpeg)
 
 #### 🔴 High-Risk Customer Profile Evaluation
-![High-Risk Assessment](screenshots/high_risk_customer.png)
+![High-Risk Assessment](screenshots/high_risk_customer.jpeg)
 ---
 
 ### 2. Portfolio Distribution Analysis Workspace
 An executive macro-level overview displaying cross-segment trends, metrics, and regional data variations across active accounts.
-![Portfolio Analytics Overview](screenshots/portfolio_analysis.png)
+![Portfolio Analytics Overview](screenshots/portfolio_analysis.jpeg)
 
 ---
 
 ### 3. Model Diagnostic Panel
 A transparent core metrics control desk displaying predictive diagnostics, pipeline optimization states, and feature importance matrices.
-![Model Quality Diagnostics](screenshots/model_diagnostics.png)
+![Model Quality Diagnostics](screenshots/model_diagnostics.jpeg)
 
 ---
 
